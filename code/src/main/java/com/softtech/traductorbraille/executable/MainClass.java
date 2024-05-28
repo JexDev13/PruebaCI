@@ -13,6 +13,8 @@ import com.softtech.traductorbraille.GUI.JFMain;
  */
 public class MainClass {
 
+    //ESTA ES UNA SECUENCIA DE PRUEBAS
+    //PRUEBA PUSH #1
     /**
      * El método principal que sirve como punto de entrada a la aplicación.
      * 
