@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Proyectos/PruebaCI/code/src/main/java;D:/Proyectos/PruebaCI/code/../executables/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Proyectos/PruebaCI/code/../documentation/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PruebaCI 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PruebaCI 1.0-SNAPSHOT API'
+com.softtech.traductorbraille.executable
+com.softtech.traductorbraille.GUI
+'D:/Proyectos/PruebaCI/code/src/main/java/com/softtech/traductorbraille/executable/MainClass.java'
+'D:/Proyectos/PruebaCI/code/src/main/java/com/softtech/traductorbraille/GUI/JFMain.java'
+D:\Proyectos\PruebaCI\code\src\main\java = 1716906996146
+D:\Proyectos\PruebaCI\code\..\executables\generated-sources\annotations = 1716907795858
+D:\Proyectos\PruebaCI\documentation\apidocs\allclasses-index.html = 1716907801740
+D:\Proyectos\PruebaCI\documentation\apidocs\allpackages-index.html = 1716907801744
+D:\Proyectos\PruebaCI\documentation\apidocs\element-list = 1716907801626
+D:\Proyectos\PruebaCI\documentation\apidocs\help-doc.html = 1716907801764
+D:\Proyectos\PruebaCI\documentation\apidocs\index-all.html = 1716907801758
+D:\Proyectos\PruebaCI\documentation\apidocs\index.html = 1716907801716
+D:\Proyectos\PruebaCI\documentation\apidocs\jquery-ui.overrides.css = 1716907801764
+D:\Proyectos\PruebaCI\documentation\apidocs\member-search-index.js = 1716907801746
+D:\Proyectos\PruebaCI\documentation\apidocs\module-search-index.js = 1716907801744
+D:\Proyectos\PruebaCI\documentation\apidocs\overview-summary.html = 1716907801761
+D:\Proyectos\PruebaCI\documentation\apidocs\overview-tree.html = 1716907801707
+D:\Proyectos\PruebaCI\documentation\apidocs\package-search-index.js = 1716907801745
+D:\Proyectos\PruebaCI\documentation\apidocs\script.js = 1716907801764
+D:\Proyectos\PruebaCI\documentation\apidocs\search.js = 1716907801764
+D:\Proyectos\PruebaCI\documentation\apidocs\serialized-form.html = 1716907801674
+D:\Proyectos\PruebaCI\documentation\apidocs\stylesheet.css = 1716907801764
+D:\Proyectos\PruebaCI\documentation\apidocs\tag-search-index.js = 1716907801747
+D:\Proyectos\PruebaCI\documentation\apidocs\type-search-index.js = 1716907801746
