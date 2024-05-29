@@ -19,7 +19,7 @@ public class MainClass {
      * El método principal que sirve como punto de entrada a la aplicación.
      * Prueba de CI #2
      * Prueba de CI #3
-     * 
+     * Prueba de CI #4
      * @param args los argumentos de la línea de comandos. Actualmente no se utilizan.
      */
     public static void main(String[] args) {
