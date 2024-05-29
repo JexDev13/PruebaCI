@@ -21,10 +21,12 @@ public class MainClass {
      * Prueba de CI #3
      * Prueba de CI #4
      * Prueba de CI #5
+     * Este es un cambio grande dentro del contexto de toda la construcción
      * @param args los argumentos de la línea de comandos. Actualmente no se utilizan.
      */
     public static void main(String[] args) {
         JFMain jfmain = new JFMain();
         jfmain.setVisible(true);
+        System.out.println("Hola como te va");
     }
 }
