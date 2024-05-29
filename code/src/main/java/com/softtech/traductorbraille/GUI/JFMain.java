@@ -37,6 +37,7 @@ public class JFMain extends javax.swing.JFrame {
             }
         });
 
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Traductor de braille a español");
 
         jButton2.setText("Reiniciar");
