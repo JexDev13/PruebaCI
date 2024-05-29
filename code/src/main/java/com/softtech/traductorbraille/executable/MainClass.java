@@ -17,6 +17,7 @@ public class MainClass {
     //PRUEBA PUSH #1
     /**
      * El método principal que sirve como punto de entrada a la aplicación.
+     * Prueba de CI #2
      * 
      * @param args los argumentos de la línea de comandos. Actualmente no se utilizan.
      */
