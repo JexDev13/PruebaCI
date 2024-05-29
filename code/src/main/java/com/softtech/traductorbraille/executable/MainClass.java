@@ -30,5 +30,6 @@ public class MainClass {
         jfmain.setVisible(true);
         System.out.println("Hola como te va");
         System.out.println("Traductor de braille");
+        System.out.println("Mas cambios");
     }
 }
